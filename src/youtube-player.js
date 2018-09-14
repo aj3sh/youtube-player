@@ -3,6 +3,8 @@ $(document).ready(function($) {
 });
 
 var youtubeModalOpen = function(e){
+	e.preventDefault();
+	e.stopPropagation();
 	var videoID = $(this).data('id');
 	$("#youtube-iframe").attr('src', 'https://www.youtube.com/embed/'+videoID+'?ecver=2&autoplay=1');
 	$('body').addClass('youtube-opened');
