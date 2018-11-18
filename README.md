@@ -9,7 +9,7 @@ Fontawesome icons
 ## Usage
 
 In your html
-------------
+============
 
 ```html
 <link rel="stylesheet" href="youtube-player/dist/youtube-player.css">
@@ -17,13 +17,13 @@ In your html
 ```
 
 Youtube link with thumbnail
----------------------------
+===========================
 ```html
 <div class="youtube-player" data-embed="https://www.youtube.com/embed/34T90cRZtZo"></div>
 ```
 
 Youtube link without thumbnail
----------------------------
+==============================
 ```html
 <a class="youtube-player-link" href="https://www.youtube.com/embed/oS2PrQtS27U">Youtube title</a>
 ```
