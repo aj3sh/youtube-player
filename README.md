@@ -1,18 +1,18 @@
-#youtube-player
+# youtube-player
 
 A youtube player plugin for your website.
 
-##Requirement
+## Requirement
 Jquery
 Fontawesome icons
 
-##Usage
+## Usage
 
 In your html
 ------------
 
 ```html
-<link href="youtube-player/dist/youtube-player.css" rel="stylesheet">
+<link rel="stylesheet" href="youtube-player/dist/youtube-player.css">
 <script type="text/javascript" src="youtube-player/dist/youtube-player.js"></script>
 ```
 
