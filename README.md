@@ -4,7 +4,9 @@ A youtube player plugin for your website.
 
 ## Requirement
 Jquery
+
 Fontawesome icons
+
 
 ## Usage
 
